@@ -138,3 +138,13 @@ a:hover {
 }
 
 
+.tabell table {
+  border-collapse: collapse; 
+  width: 30%;
+}
+
+.tabell th, .tabell td {
+  border: 1px solid rgb(255, 255, 255); 
+  padding: 6px; 
+  text-align: left; 
+}
